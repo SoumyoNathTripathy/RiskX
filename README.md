@@ -1,6 +1,7 @@
 # RiskAssess
 ## About RiskAssess:
 Welcome to RiskAssess!, a risk assessment system for medical institutions to generate risk assessments for their patients. RiskAssess started off as a company that formed strong relationships with medical institutions to help them generate their assessments with ease and maximum efficiency thus saving the organization's valuable time.It helps people to know whether they are suffering from a particular disease or not by taking several parameters as input that can help in assessing their health risk.
+## Demo screenshot of the UI:
 ![Screenshot_20230301_041507](https://user-images.githubusercontent.com/85414445/222118942-9e8331bf-83ec-4b9c-92bd-ede62cf64ba9.png)
 
 
